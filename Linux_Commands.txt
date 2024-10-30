@@ -1,0 +1,25 @@
+ls- list files and directories of the current directory.
+
+cd-changes the current directory to specified directory or one level up and to home directory.
+
+pwd-used to display the present working directory path.
+
+mkdir-This command is used to create a new directory .
+
+rmdir-This command is used to delete a directory.
+
+rm-This command is used to remove files/directories.
+
+touch-This command is used to create empty file with the given extension.We can create more than one file at a time.(touch hello.txt hello1.text---> both files will be created).
+
+cat-This command is used to display the contents of a file.
+
+cat > -This command is used to edit a file.
+
+sudo -i -This command is used to execute any command as if you are a super user.(eg-->travel to root directory , to download something in the that part sudo is used)
+
+vim-This command comes with vim editor for editing , displaying content of a file.
+
+cp-This command is used to copy files/directories from source to destination.
+
+mv-This command is used move files/directories from source to destination but source files get completely removed.
